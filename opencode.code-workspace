@@ -1,0 +1,17 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"name": "component-detection",
+			"path": "../../home/codespace/component-detection"
+		}
+	],
+	"settings": {},
+	"extensions": {
+		"recommendations": [
+			"ms-vscode.vscode-github-issue-notebooks"
+		]
+	}
+}
